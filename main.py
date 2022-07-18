@@ -1,0 +1,13 @@
+name=input("give me a name:  ")
+noun=input("give me a noun:  ")
+noun2=input("give me a noun:  ")
+adjective=input("give me a adjective:  ")
+adjective2=input("give me a adjective:  ")
+verb=input("give me a verb:  ")
+verb2=input("give me a verb:  ")
+animal=input("give me a animal:  ")
+famousperson =input("name a famous person:  ")
+food=input("name a food:  ")
+number=input("name a number:  ")
+
+print(f"{name} was walking his pet {animal}, then he saw he favorite person ever... {famousperson} and then he started (to) {verb} to them. they were a very {adjective} kind of person, but with such a {adjective2} smile that any {noun} would do anything they say, including {name}. But little did anyone know {famousperson} was a very bad person. They told everyone to go and get {number} {food}s and then {verb2} with the {food} and feed it to a {noun2}")
